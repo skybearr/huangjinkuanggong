@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="GameSceneSkin" width="960" height="640" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" xmlns:ns1="*">
+	<e:Image width="960" height="500" horizontalCenter="0" source="l1b_jpg" bottom="0"/>
+	<ns1:Ship id="ship" skinName="ShipSkin" horizontalCenter="-5"/>
+</e:Skin>

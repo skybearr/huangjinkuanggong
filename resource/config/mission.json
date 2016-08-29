@@ -1,0 +1,4 @@
+[{"id":1,"image":"gold_png","max_num":2,"left":1,"pos":0,"movetype":0,"speed":10},
+{"id":2,"image":"monster1_png","max_num":1,"left":1,"pos":0,"movetype":0,"speed":8},
+{"id":3,"image":"s13_png","max_num":3,"left":0,"pos":1,"movetype":0,"speed":5},
+{"id":4,"image":"stone1_png","max_num":1,"left":0,"pos":2,"movetype":1,"speed":3}]

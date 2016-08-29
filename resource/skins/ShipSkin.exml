@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="ShipSkin" width="150" height="160" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image id="person" source="s7_png" height="140" horizontalCenter="0" locked="true"/>
+	<e:Group id="gouzi" height="58" width="40" x="57" y="101">
+		<e:Image source="gouzi_png" />
+	</e:Group>
+</e:Skin>
